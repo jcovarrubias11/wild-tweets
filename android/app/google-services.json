@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23778610035",
+    "firebase_url": "https://wildtweets-e54d7.firebaseio.com",
+    "project_id": "wildtweets-e54d7",
+    "storage_bucket": "wildtweets-e54d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23778610035:android:29474bee121288a334d306",
+        "android_client_info": {
+          "package_name": "com.example.wild_tweets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23778610035-mcju93tqtbvfkn845h1gvaqfkcmfadvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJj_hW9gHw3_XLSLtE3-wyDZ0BVEBKIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23778610035-mcju93tqtbvfkn845h1gvaqfkcmfadvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
